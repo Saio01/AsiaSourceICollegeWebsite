@@ -137,7 +137,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
 h1 {
 	color:#fff;
 	font-size:51px;
-	text-transform:uppercase;
+	text-transform:none;
 }
 h2 {
 	color:#555;
@@ -235,7 +235,7 @@ a.btn-send:hover {
 }
 a.navbar-brand img {
 	position:relative;
-	top:9px;
+	top:3px;
 }
 #menu {
 	position:absolute;
